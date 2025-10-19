@@ -1,0 +1,6 @@
+{
+  "name": "blumenboss-ledger",
+  "version": "1.0.0",
+  "description": "A simple ledger application for Blumenboss flower shop.",
+  "private": true
+}
